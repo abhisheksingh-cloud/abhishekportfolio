@@ -1,0 +1,70 @@
+{
+  "profile": {
+    "name": "portfolio",
+    "role": "Software Developer",
+    "location": "Your City",
+    "headline": ["Thoughtful code.", "Useful experiences."],
+    "intro": "I build clear, dependable digital products with care for the people who use them."
+  },
+  "about": {
+    "lead": "I’m a software developer interested in making the complex feel simple.",
+    "description": "I enjoy turning thoughtful ideas into useful, reliable experiences—from the first sketch to the final, carefully considered detail. I’m always learning, asking better questions, and looking for ways to make the work a little better."
+  },
+  "principles": [
+    {
+      "title": "Stay curious",
+      "description": "Keep asking questions, exploring ideas, and learning how things work."
+    },
+    {
+      "title": "Make it useful",
+      "description": "Start with the people on the other side of the screen and what they need."
+    },
+    {
+      "title": "Mind the details",
+      "description": "Build with care, communicate clearly, and leave things better than you found them."
+    }
+  ],
+  "projects": [
+    {
+      "type": "Web application · Sample",
+      "title": "Project One",
+      "description": "Replace this with a short description of the challenge, your approach, and the result.",
+      "technologies": ["Technology", "Design", "Accessibility"]
+    },
+    {
+      "type": "Mobile experience · Sample",
+      "title": "Project Two",
+      "description": "Add the key details that help someone understand what you made and why it matters.",
+      "technologies": ["Technology", "Product", "Research"]
+    }
+  ],
+  "skills": [
+    {
+      "label": "Development",
+      "items": ["JavaScript", "HTML & CSS", "Git", "APIs"]
+    },
+    {
+      "label": "Practice",
+      "items": ["Problem solving", "Responsive design", "Accessibility", "Collaboration"]
+    }
+  ],
+  "experience": [
+    {
+      "date": "YEAR — YEAR",
+      "role": "Your role / position",
+      "organization": "Company or organization · Location",
+      "description": "Summarize your contribution, what you learned, and the impact of your work. Keep it specific and easy to scan."
+    },
+    {
+      "date": "YEAR — YEAR",
+      "role": "Your role / position",
+      "organization": "Company or organization · Location",
+      "description": "Add another relevant role, internship, freelance engagement, or community contribution."
+    }
+  ],
+  "education": {
+    "degree": "Your degree or course",
+    "institution": "School or institution · YEAR — YEAR",
+    "description": "Add a focus area, relevant coursework, or a learning milestone worth sharing."
+  }
+}
